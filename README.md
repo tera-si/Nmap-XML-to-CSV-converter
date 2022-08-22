@@ -29,7 +29,7 @@ At the moment it suppoorts at most one TCP and one UDP scan, meaning you can use
 ```
 $ python3 convert.py tcp-scan.xml udp-scan.xml 
 ##################################################
-# Nmap XML to CSV convertor v 1.0                #
+# Nmap XML to CSV converter v 1.0                #
 # By terasi                                      #
 # https://github.com/tera-si                     #
 ##################################################
