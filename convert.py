@@ -7,7 +7,7 @@ from os import path
 
 def print_banner():
     separator = "#" * 50
-    banner_text = "# Nmap XML to CSV convertor v 1.0" + " " * 16 + "#\n"
+    banner_text = "# Nmap XML to CSV converter v 1.0" + " " * 16 + "#\n"
     banner_text += "# By terasi" + " " * 38 + "#\n"
     banner_text += "# https://github.com/tera-si" + " " * 21 + "#"
 
